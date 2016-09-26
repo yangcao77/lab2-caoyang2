@@ -1,13 +1,13 @@
 # Lab 2: Web Development Tools and Reponsive Design
 
-You are encouraged to work in pairs for this lab. However **both** partners must submit the files you worked on for credit.  It is totally fine to submit identical files.  Please add a note in the Readme.md file with the utorid of your partner.
+You are encouraged to work in pairs for this lab. However **both** partners must submit the files you worked on for credit.  It is totally fine to submit identical files.  Please add a note in the `README.md` file with the UTORid of your partner.
 
 In the first part, we'll learn about web development tools for page inspection.
 
 In the second part, we'll take a basic non-responsive website and make it
 responsive at two breakpoints with media queries.
 
-Ass with the first lab, you will fork your lab2-UTORID repository (where UTORID) is your UTORID).  Then you will clone it to the machine your are working on, add and commit changes.  When you are ready to submit, you will use `git push origin master` to push the changes to your fork.  Finally, you will navigate to your fork on github.com and use the GUI to make a pull request.  (If you go to github.com and don't find a lab2-UTORID repository, please let me know as soon as possible.)
+As with the first lab, you will fork your lab2-UTORid repository (where UTORid is your UTORid).  Then you will clone it to the machine your are working on, add and commit changes.  When you are ready to submit, you will use `git push origin master` to push the changes to your fork.  Finally, you will navigate to your fork on github.com and use the GUI to make a pull request.  (If you go to github.com and don't find a lab2-UTORid repository, please let me know as soon as possible.)
 
 ## Part 1: Web Development Tools
 
@@ -54,7 +54,7 @@ Ass with the first lab, you will fork your lab2-UTORID repository (where UTORID)
     -   Coloring: `color, background, ...`
     
     Tips:
-    - You may find the [w3schools tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp) useful.  Especially look at the css file in [Try it yourself](http://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s).  This example is more complicated than what we are asking you to do, so you don't need to add so many classes to your elements, you can often simply style the elements themselves.
+    - You may find the [w3schools tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp) useful.  Especially look at the CSS file in [Try it yourself](http://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s).  This example is more complicated than what we are asking you to do, so you don't need to add so many classes to your elements, you can often simply style the elements themselves.
     - You are welcome to choose any background or text colours.  They don't need to match the images below.
     - Don't worry about padding and margins and making it visually match the images below.  The important part is the relative positioning of the elements in as the browser window size changes. After you have the positioning correct, you can add some padding and/or margins to improve the look.
     - The 480x320 size should also include the footer.  It doesn't appear in the image, but you don't need to hide it.
