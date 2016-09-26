@@ -7,6 +7,8 @@ In the first part, we'll learn about web development tools for page inspection.
 In the second part, we'll take a basic non-responsive website and make it
 responsive at two breakpoints with media queries.
 
+Ass with the first lab, you will fork your lab2-UTORID repository (where UTORID) is your UTORID).  Then you will clone it to the machine your are working on, add and commit changes.  When you are ready to submit, you will use `git push origin master` to push the changes to your fork.  Finally, you will navigate to your fork on github.com and use the GUI to make a pull request.
+
 ## Part 1: Web Development Tools
 
 1.  Read through the tutorial on web development tools
@@ -52,7 +54,7 @@ responsive at two breakpoints with media queries.
     -   Coloring: `color, background, ...`
     
     Tips:
-    - You may find the [w3schools tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp) useful.  Especially look at the css file in [Try it yourself](http://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s).  This example is more complicated than we we are asking you to do, so you don't need to add so many classes to your elements, you can often simply style the elements themselves.
+    - You may find the [w3schools tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp) useful.  Especially look at the css file in [Try it yourself](http://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s).  This example is more complicated than what we are asking you to do, so you don't need to add so many classes to your elements, you can often simply style the elements themselves.
     - You are welcome to choose any background or text colours.  They don't need to match the images below.
     - Don't worry about padding and margins and making it visually match the images below.  The important part is the relative positioning of the elements in as the browser window size changes. After you have the positioning correct, you can add some padding and/or margins to improve the look.
     - The 480x320 size should also include the footer.  It doesn't appear in the image, but you don't need to hide it.
@@ -99,10 +101,12 @@ on all screens, even those that are 320 pixels in width.
 
 ## Deliverables
 
+A pull request on your `lab2-UTORID` repository that contains:
+
 1.  Your screenshot from part 1.
-2.  Any files that you used for part 2 (`index.html`, `style.css`, etc.).
+2.  The files that you used for part 2 (`index.html`, `style.css`).
 
 
 ## Attribution
 
-Lab materials based on work by: Katie Seaborn
+Lab materials based on work by Katie Seaborn.
