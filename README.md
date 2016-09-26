@@ -7,7 +7,7 @@ In the first part, we'll learn about web development tools for page inspection.
 In the second part, we'll take a basic non-responsive website and make it
 responsive at two breakpoints with media queries.
 
-Ass with the first lab, you will fork your lab2-UTORID repository (where UTORID) is your UTORID).  Then you will clone it to the machine your are working on, add and commit changes.  When you are ready to submit, you will use `git push origin master` to push the changes to your fork.  Finally, you will navigate to your fork on github.com and use the GUI to make a pull request.
+Ass with the first lab, you will fork your lab2-UTORID repository (where UTORID) is your UTORID).  Then you will clone it to the machine your are working on, add and commit changes.  When you are ready to submit, you will use `git push origin master` to push the changes to your fork.  Finally, you will navigate to your fork on github.com and use the GUI to make a pull request.  (If you go to github.com and don't find a lab2-UTORID repository, please let me know as soon as possible.)
 
 ## Part 1: Web Development Tools
 
